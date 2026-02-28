@@ -123,7 +123,34 @@ const productos = [
     imagen: "./img/item (15).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
+  } ,
+  {
+    nombre: "Item 16",
+    precio: "$50.000",
+    descripcion: "",
+    imagen: "./img/item (16).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078"
+  },
+  {
+    nombre: "Item 17",
+    precio: "$10.000 c/u",
+    descripcion: "",
+    imagen: "./img/item (17).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078"
   }
+  ,
+  {
+    nombre: "Item 18",
+    precio: "$10.000 c/u",
+    descripcion: "",
+    imagen: "./img/item (18).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078"
+  }
+ 
+ 
  
   
   
