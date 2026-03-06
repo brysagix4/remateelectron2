@@ -3,7 +3,7 @@ const productos = [
   {
     nombre: "Item 1",
     precio: "$10.000 c/u",
-    descripcion: "Módulos varios",
+    descripcion: "",
     imagen: "./img/item (1).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -11,7 +11,7 @@ const productos = [
   {
     nombre: "Item 2",
     precio: "$20.000",
-    descripcion: "Elevador voltaje",
+    descripcion: "",
     imagen: "./img/item (2).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -19,24 +19,23 @@ const productos = [
   {
     nombre: "Item 3",
     precio: "$8.000 c/u",
-    descripcion: "Módulo para comunicación inalámbrica",
+    descripcion: "",
     imagen: "./img/item (3).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
   },
   {
     nombre: "Item 4",
-    precio: "$10.000 c/u",
-    descripcion: "Cable HDMI a VGA",
-    imagen: "./img/item (18).webp",
+    precio: "$50.000",
+    descripcion: "",
+    imagen: "./img/item (4).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
-  }
-  ,
+  },
   {
     nombre: "Item 5",
     precio: "$5.000",
-    descripcion: "Módulo de botones",
+    descripcion: "",
     imagen: "./img/item (5).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -44,7 +43,7 @@ const productos = [
   {
     nombre: "Item 6",
     precio: "$10.000",
-    descripcion: "Breaker DC",
+    descripcion: "",
     imagen: "./img/item (6).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -53,7 +52,7 @@ const productos = [
   {
     nombre: "Item 7",
     precio: "$10.000",
-    descripcion: "Resistencias SMD",
+    descripcion: "",
     imagen: "./img/item (7).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -61,7 +60,7 @@ const productos = [
   {
     nombre: "Item 8",
     precio: "$60.000",
-    descripcion: "Multimetro",
+    descripcion: "",
     imagen: "./img/item (8).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -70,7 +69,7 @@ const productos = [
   {
     nombre: "Item 9",
     precio: "$60.000",
-    descripcion: "Multimetro LOM",
+    descripcion: "",
     imagen: "./img/item (9).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -79,7 +78,7 @@ const productos = [
   {
     nombre: "Item 10",
     precio: "$100.000",
-    descripcion: "Pantalle HDMI",
+    descripcion: "",
     imagen: "./img/item (10).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -87,7 +86,7 @@ const productos = [
   {
     nombre: "Item 11",
     precio: "$15.000",
-    descripcion: "Pila 9V recargable",
+    descripcion: "",
     imagen: "./img/item (11).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -95,7 +94,7 @@ const productos = [
   {
     nombre: "Item 12",
     precio: "$100.000",
-    descripcion: "Raspberry PI 3B",
+    descripcion: "",
     imagen: "./img/item (12).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -103,7 +102,7 @@ const productos = [
   {
     nombre: "Item 13",
     precio: "$5000 c/u",
-    descripcion: "Accesorios raspberry",
+    descripcion: "",
     imagen: "./img/item (13).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -112,7 +111,7 @@ const productos = [
   {
     nombre: "Item 14",
     precio: "$20.000",
-    descripcion: "Cámara a color Raspberry",
+    descripcion: "",
     imagen: "./img/item (14).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -120,7 +119,7 @@ const productos = [
   {
     nombre: "Item 15",
     precio: "$10.000 c/u",
-    descripcion: "LEDs SMD",
+    descripcion: "",
     imagen: "./img/item (15).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -128,7 +127,7 @@ const productos = [
   {
     nombre: "Item 16",
     precio: "$50.000",
-    descripcion: "Licencia Software Calculadora Texas",
+    descripcion: "",
     imagen: "./img/item (16).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -136,12 +135,21 @@ const productos = [
   {
     nombre: "Item 17",
     precio: "$10.000 c/u",
-    descripcion: "Cable Extensión USB",
+    descripcion: "",
     imagen: "./img/item (17).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
   }
-  
+  ,
+  {
+    nombre: "Item 18",
+    precio: "$10.000 c/u",
+    descripcion: "",
+    imagen: "./img/item (18).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078"
+  }
+ 
  
  
   
