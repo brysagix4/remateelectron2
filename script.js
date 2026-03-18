@@ -28,7 +28,7 @@ const productos = [
     nombre: "Item 4",
     precio: "$10.000 c/u",
     descripcion: "Cable HDMI a VGA",
-    imagen: "./img/item (18).webp",
+    imagen: "./img/item (4).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
   }
@@ -141,6 +141,34 @@ const productos = [
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
   }
+  ,
+  {
+    nombre: "Item 18",
+    precio: "$10.000",
+    descripcion: "Protoboard",
+    imagen: "./img/item (18).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078"
+  }
+  
+  ,
+  {
+    nombre: "Item 19",
+    precio: "$15.000 c/u",
+    descripcion: "Atmega",
+    imagen: "./img/item (19).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078"
+  }
+  ,
+  {
+    nombre: "Item 19",
+    precio: "$20.000",
+    descripcion: "Servo Motor",
+    imagen: "./img/item (20).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078"
+  }
   
  
  
@@ -152,7 +180,7 @@ const productos = [
 // Variables globales
 let productosFiltrados = productos;
 let paginaActual = 1;
-const productosPorPagina = 9;
+const productosPorPagina = 10;
 
 // Función para crear el HTML de un producto
 function crearProductoHTML(producto) {
