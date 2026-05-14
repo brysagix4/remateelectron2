@@ -6,7 +6,7 @@ const productos = [
     descripcion: "Módulos varios",
     imagen: "./img/item (1).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 2",
@@ -14,7 +14,7 @@ const productos = [
     descripcion: "Elevador voltaje",
     imagen: "./img/item (2).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 3",
@@ -22,7 +22,7 @@ const productos = [
     descripcion: "Módulo para comunicación inalámbrica",
     imagen: "./img/item (3).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 4",
@@ -30,16 +30,15 @@ const productos = [
     descripcion: "Cable HDMI a VGA",
     imagen: "./img/item (4).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  }
-  ,
+    contacto: "300 742 5078",
+  },
   {
     nombre: "Item 5",
     precio: "$5.000",
     descripcion: "Módulo de botones",
     imagen: "./img/item (5).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 6",
@@ -47,42 +46,15 @@ const productos = [
     descripcion: "Breaker DC",
     imagen: "./img/item (6).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
-   ,
-  {
-    nombre: "Item 7",
-    precio: "$10.000",
-    descripcion: "Resistencias SMD",
-    imagen: "./img/item (7).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-  {
-    nombre: "Item 8",
-    precio: "$60.000",
-    descripcion: "Multimetro",
-    imagen: "./img/item (8).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  }
-  ,
-  {
-    nombre: "Item 9",
-    precio: "$60.000",
-    descripcion: "Multimetro LOM",
-    imagen: "./img/item (9).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  }
-  ,
   {
     nombre: "Item 10",
     precio: "$100.000",
     descripcion: "Pantalle HDMI",
     imagen: "./img/item (10).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 11",
@@ -90,7 +62,7 @@ const productos = [
     descripcion: "Pila 9V recargable",
     imagen: "./img/item (11).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 12",
@@ -98,7 +70,7 @@ const productos = [
     descripcion: "Raspberry PI 3B",
     imagen: "./img/item (12).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 13",
@@ -106,75 +78,49 @@ const productos = [
     descripcion: "Accesorios raspberry",
     imagen: "./img/item (13).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  }
-  ,
-  {
-    nombre: "Item 14",
-    precio: "$20.000",
-    descripcion: "Cámara a color Raspberry",
-    imagen: "./img/item (14).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
+
   {
     nombre: "Item 15",
     precio: "$10.000 c/u",
     descripcion: "LEDs SMD",
     imagen: "./img/item (15).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  } ,
+    contacto: "300 742 5078",
+  },
   {
     nombre: "Item 16",
     precio: "$50.000",
     descripcion: "Licencia Software Calculadora Texas",
     imagen: "./img/item (16).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
-  {
-    nombre: "Item 17",
-    precio: "$10.000 c/u",
-    descripcion: "Cable Extensión USB",
-    imagen: "./img/item (17).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  }
-  ,
   {
     nombre: "Item 18",
     precio: "$10.000",
     descripcion: "Protoboard",
     imagen: "./img/item (18).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  }
-  
-  ,
+    contacto: "300 742 5078",
+  },
   {
     nombre: "Item 19",
     precio: "$15.000 c/u",
     descripcion: "Atmega",
     imagen: "./img/item (19).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  }
-  ,
+    contacto: "300 742 5078",
+  },
   {
     nombre: "Item 19",
     precio: "$20.000",
     descripcion: "Servo Motor",
     imagen: "./img/item (20).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  }
-  
- 
- 
-  
-  
-
+    contacto: "300 742 5078",
+  },
 ];
 
 // Variables globales
