@@ -1,132 +1,277 @@
 // Datos de los productos con categorías
 const productos = [
   {
-    nombre: "Item 1",
-    precio: "$10.000 c/u",
-    descripcion: "Módulos varios",
-    imagen: "./img/item (1).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
-  },
-  {
-    nombre: "Item 2",
-    precio: "$20.000",
-    descripcion: "Elevador voltaje",
-    imagen: "./img/item (2).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
-  },
-  {
-    nombre: "Item 3",
-    precio: "$8.000 c/u",
-    descripcion: "Módulo para comunicación inalámbrica",
-    imagen: "./img/item (3).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
-  },
-  {
-    nombre: "Item 4",
-    precio: "$10.000 c/u",
-    descripcion: "Cable HDMI a VGA",
-    imagen: "./img/item (4).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
-  },
-  {
-    nombre: "Item 5",
-    precio: "$5.000",
-    descripcion: "Módulo de botones",
-    imagen: "./img/item (5).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
-  },
-  {
-    nombre: "Item 6",
+    nombre: "Item 30",
     precio: "$10.000",
-    descripcion: "Breaker DC",
-    imagen: "./img/item (6).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
-  },
-  {
-    nombre: "Item 10",
-    precio: "$100.000",
-    descripcion: "Pantalle HDMI",
-    imagen: "./img/item (10).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
-  },
-  {
-    nombre: "Item 11",
-    precio: "$15.000",
-    descripcion: "Pila 9V recargable",
-    imagen: "./img/item (11).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
-  },
-  {
-    nombre: "Item 12",
-    precio: "$100.000",
-    descripcion: "Raspberry PI 3B",
-    imagen: "./img/item (12).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
-  },
-  {
-    nombre: "Item 13",
-    precio: "$5000 c/u",
-    descripcion: "Accesorios raspberry",
-    imagen: "./img/item (13).webp",
+    descripcion: "Sensor Humedad",
+    imagen: "./img/item (30).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078",
   },
 
   {
-    nombre: "Item 15",
+    nombre: "Item 31",
+    precio: "$40.000 c/u",
+    descripcion: "Pantalla color arduino",
+    imagen: "./img/item (31).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 32",
+    precio: "$10.000",
+    descripcion: "Módulo para alarma",
+    imagen: "./img/item (32).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 33",
+    precio: "$100.000",
+    descripcion: "Pantalla HDMI",
+    imagen: "./img/item (33).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+
+  {
+    nombre: "Item 34",
+    precio: "$25.000",
+    descripcion: "ESP32",
+    imagen: "./img/item (34).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 35",
+    precio: "$20.000",
+    descripcion: "Módulo ADC",
+    imagen: "./img/item (35).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 36",
+    precio: "$6.000",
+    descripcion: "Ultrasonido",
+    imagen: "./img/item (36).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 37",
+    precio: "$7.000",
+    descripcion: "Módulo un solo relé",
+    imagen: "./img/item (37).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 38",
+    precio: "$60.000",
+    descripcion: "Pantalla a Color",
+    imagen: "./img/item (38).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+
+  {
+    nombre: "Item 39",
+    precio: "$7.000",
+    descripcion: "Relé industrial",
+    imagen: "./img/item (39).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 40",
     precio: "$10.000 c/u",
-    descripcion: "LEDs SMD",
-    imagen: "./img/item (15).webp",
+    descripcion: "Módulos varios",
+    imagen: "./img/item (40).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078",
   },
   {
-    nombre: "Item 16",
-    precio: "$50.000",
-    descripcion: "Licencia Software Calculadora Texas",
-    imagen: "./img/item (16).webp",
+    nombre: "Item 41",
+    precio: "$60.000",
+    descripcion: "Cargador baterías",
+    imagen: "./img/item (41).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078",
   },
   {
-    nombre: "Item 18",
+    nombre: "Item 42",
+    precio: "$30.000 c/u",
+    descripcion: "Contactor",
+    imagen: "./img/item (42).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 43",
     precio: "$10.000",
     descripcion: "Protoboard",
-    imagen: "./img/item (18).webp",
+    imagen: "./img/item (43).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078",
   },
   {
-    nombre: "Item 19",
+    nombre: "Item 44",
+    precio: "$20.000",
+    descripcion: "Fuente DC",
+    imagen: "./img/item (44).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 45",
+    precio: "$15.000",
+    descripcion: "Pila 9V recargable",
+    imagen: "./img/item (45).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 46",
+    precio: "$100.000",
+    descripcion: "Raspberry PI 3B",
+    imagen: "./img/item (46).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 47",
+    precio: "$5000 c/u",
+    descripcion: "Accesorios raspberry",
+    imagen: "./img/item (47).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+
+  {
+    nombre: "Item 48",
+    precio: "$10.000 c/u",
+    descripcion: "LEDs SMD",
+    imagen: "./img/item (48).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 49",
+    precio: "$50.000",
+    descripcion: "Licencia Software Calculadora Texas",
+    imagen: "./img/item (49).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 50",
+    precio: "$10.000",
+    descripcion: "Protoboard",
+    imagen: "./img/item (50).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 51",
     precio: "$15.000 c/u",
     descripcion: "Atmega",
-    imagen: "./img/item (19).webp",
+    imagen: "./img/item (51).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078",
+  },
+
+   {
+    nombre: "Libro 1",
+    precio: "$10.000",
+    descripcion: "",
+    imagen: "./img/libro (1).webp",
+    categoria: "LIBROS",
+    contacto: "300 742 5078"
   },
   {
-    nombre: "Item 19",
-    precio: "$20.000",
-    descripcion: "Servo Motor",
-    imagen: "./img/item (20).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    nombre: "Libro 2",
+    precio: "$10.000",
+    descripcion: "",
+    imagen: "./img/libro (2).webp",
+    categoria: "LIBROS",
+    contacto: "300 742 5078"
   },
+  {
+    nombre: "Libro 3",
+    precio: "$15.000",
+    descripcion: "",
+    imagen: "./img/libro (3).webp",
+    categoria: "LIBROS",
+    contacto: "300 742 5078"
+  },
+  {
+    nombre: "Libro 4",
+    precio: "$10.000",
+    descripcion: "",
+    imagen: "./img/libro (4).webp",
+    categoria: "LIBROS",
+    contacto: "300 742 5078"
+  },
+  {
+    nombre: "Libro 5",
+    precio: "$10.000",
+    descripcion: "",
+    imagen: "./img/libro (5).webp",
+    categoria: "LIBROS",
+    contacto: "300 742 5078"
+  },
+  {
+    nombre: "Libro 6",
+    precio: "$10.000",
+    descripcion: "",
+    imagen: "./img/libro (6).webp",
+    categoria: "LIBROS",
+    contacto: "300 742 5078"
+  },
+
+
+  {
+    nombre: "Libro 7",
+    precio: "$15.000",
+    descripcion: "",
+    imagen: "./img/libro (7).webp",
+    categoria: "LIBROS",
+    contacto: "300 742 5078"
+  },
+  {
+    nombre: "Libro 8",
+    precio: "$15.000",
+    descripcion: "",
+    imagen: "./img/libro (8).webp",
+    categoria: "LIBROS",
+    contacto: "300 742 5078"
+  },
+  {
+    nombre: "Libro 9",
+    precio: "$25.000",
+    descripcion: "",
+    imagen: "./img/libro (9).webp",
+    categoria: "LIBROS",
+    contacto: "300 742 5078"
+  },
+  {
+    nombre: "Libro 10",
+    precio: "$15.000",
+    descripcion: "",
+    imagen: "./img/libro (10).webp",
+    categoria: "LIBROS",
+    contacto: "300 742 5078"
+  }
+
+
+  
 ];
 
 // Variables globales
 let productosFiltrados = productos;
 let paginaActual = 1;
-const productosPorPagina = 10;
+const productosPorPagina = 9;
 
 // Función para crear el HTML de un producto
 function crearProductoHTML(producto) {
