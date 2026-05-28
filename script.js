@@ -197,6 +197,9 @@ const productos = [
     categoria: "LIBROS",
     contacto: "300 742 5078"
   },
+
+
+  /*
   {
     nombre: "Libro 3",
     precio: "$15.000",
@@ -205,6 +208,10 @@ const productos = [
     categoria: "LIBROS",
     contacto: "300 742 5078"
   },
+
+  */
+
+
   {
     nombre: "Libro 4",
     precio: "$10.000",
@@ -230,6 +237,7 @@ const productos = [
     contacto: "300 742 5078"
   },
 
+  /*
 
   {
     nombre: "Libro 7",
@@ -239,6 +247,9 @@ const productos = [
     categoria: "LIBROS",
     contacto: "300 742 5078"
   },
+
+  */
+
   {
     nombre: "Libro 8",
     precio: "$15.000",
@@ -249,7 +260,7 @@ const productos = [
   },
   {
     nombre: "Libro 9",
-    precio: "$25.000",
+    precio: "$60.000",
     descripcion: "",
     imagen: "./img/libro (9).webp",
     categoria: "LIBROS",
